@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IvanovMaksimBLR
-- 👀 I’m interested in sport, shooting and coding
+- 👀 I’m interested in sport and coding
 - 🌱 I’m currently learning python
 - 📫 inst - maksim_.ivanov_
 
