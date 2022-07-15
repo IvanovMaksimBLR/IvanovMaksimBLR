@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @IvanovMaksimBLR
+- 👋 Hi, I’m @testGit
 - 👀 I’m interested in sport and coding
 - 🌱 I’m currently learning python
-- 📫 inst - maksim_.ivanov_
+- 📫 inst - None
 - sorry, my English is rathe poor, but I try
 <!---
 IvanovMaksimBLR/IvanovMaksimBLR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
